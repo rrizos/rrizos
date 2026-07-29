@@ -1,6 +1,6 @@
 # Hey there, I’m Rafael! 👋 👨🏻‍💻
 
-> Computer Engineering Student & Developer building cool projects for the web!
+> Computer Engineering Student & Developer building practical applications for the web!
 
 ---
 
@@ -8,7 +8,7 @@
 
 * 👨🏻‍💻 **Building:** [Neat](https://github.com/rrizos)
 * 📚 **Education:** Studying Information and Electronics Engineering at **International Hellenic University (IHU)**
-
+* 🐧 **Environment:** Linux power user & backend developer
 
 ---
 
@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrizos&show_icons=true&theme=tokyonight&hide_border=true" alt="Rafael's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rrizos&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rafael's GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrizos&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160" />
 </div>
 
