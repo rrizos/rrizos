@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrizos&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rafael's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrizos&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rrizos)
