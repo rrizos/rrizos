@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-* 👨🏻‍💻 **Building:** [Neat](https://github.com/rrizos)
+* 👨🏻‍💻 **Building:** [Neat](https://github.com/NeatSocial)
 * 📚 **Education:** Studying Information and Electronics Engineering at **International Hellenic University (IHU)**
 * 🐧 **Environment:** Linux power user & backend developer
 
