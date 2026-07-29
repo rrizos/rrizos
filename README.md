@@ -8,7 +8,7 @@
 
 * 👨🏻‍💻 **Building:** [Neat](https://github.com/rrizos)
 * 📚 **Education:** Studying Information and Electronics Engineering at **International Hellenic University (IHU)**
-* 🐧 **System:** Linux enthusiast & open-source builder
+
 
 ---
 
